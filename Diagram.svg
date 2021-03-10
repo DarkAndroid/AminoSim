@@ -1,0 +1,1368 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="Диаграмма.svg"
+   id="svg668"
+   version="1.1"
+   viewBox="-1180 324 1201 1434"
+   height="72cm"
+   width="61cm">
+  <metadata
+     id="metadata674">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs672">
+    <rect
+       id="rect2563"
+       height="213.24652"
+       width="339.01511"
+       y="1968.9174"
+       x="-198.21185" />
+    <rect
+       id="rect2464"
+       height="196.09519"
+       width="455.25182"
+       y="914.01327"
+       x="-258.31372" />
+    <rect
+       id="rect2458"
+       height="114.02892"
+       width="363.68314"
+       y="850.95182"
+       x="-274.72697" />
+    <rect
+       id="rect1725"
+       height="104.45331"
+       width="290.75891"
+       y="637.97075"
+       x="-1079.4508" />
+    <rect
+       id="rect1597"
+       height="172.25633"
+       width="392.15802"
+       y="893.30106"
+       x="-698.28789" />
+    <rect
+       id="rect1548"
+       height="1143.4888"
+       width="329.85254"
+       y="502.38577"
+       x="-368.0539" />
+    <rect
+       id="rect1509"
+       height="109.34001"
+       width="327.40919"
+       y="267.19206"
+       x="-1020.1995" />
+    <rect
+       x="-1020.1995"
+       y="267.19205"
+       width="327.40918"
+       height="109.34001"
+       id="rect1509-9" />
+    <rect
+       x="-1020.1995"
+       y="267.19205"
+       width="327.40918"
+       height="109.34001"
+       id="rect1786" />
+    <rect
+       x="-368.05389"
+       y="502.38577"
+       width="329.85254"
+       height="1143.4888"
+       id="rect1548-8" />
+    <rect
+       x="-368.05389"
+       y="502.38577"
+       width="329.85254"
+       height="1143.4888"
+       id="rect1789" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:current-layer="g452-73"
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="952"
+     inkscape:cy="1281.2556"
+     inkscape:cx="1329.1912"
+     inkscape:zoom="0.30500579"
+     showgrid="false"
+     id="namedview670"
+     inkscape:window-height="991"
+     inkscape:window-width="997"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <g
+     transform="translate(221.78198,189.42555)"
+     id="g10">
+    <path
+       id="path2"
+       d="m -1073.73,325.332 h 43.8 c 6.05,0 10.95,8.954 10.95,20 0,11.046 -4.9,20 -10.95,20 h -43.8 c -6.04,0 -10.95,-8.954 -10.95,-20 0,-11.046 4.91,-20 10.95,-20 z"
+       style="fill:#ffffff" />
+    <path
+       id="path4"
+       d="m -1073.73,325.332 h 43.8 c 6.05,0 10.95,8.954 10.95,20 0,11.046 -4.9,20 -10.95,20 h -43.8 c -6.04,0 -10.95,-8.954 -10.95,-20 0,-11.046 4.91,-20 10.95,-20"
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2" />
+    <text
+       id="text8"
+       y="350.13199"
+       x="-1051.83"
+       style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000"
+       font-size="12.8px"><tspan
+         id="tspan6"
+         y="350.13199"
+         x="-1051.83">BEGIN</tspan></text>
+  </g>
+  <g
+     transform="translate(855.85188,1016.0484)"
+     id="g22">
+    <path
+       id="path12"
+       d="m -1312.0137,249.45731 c 51.4,-9.5 77.1,-12.667 128.5,-12.667 51.402,0 77.102,3.167 128.502,12.667 v 50.666 c -51.4,9.5 -77.1,12.667 -128.502,12.667 -51.4,0 -77.1,-3.167 -128.5,-12.667 z"
+       style="fill:#ffffff" />
+    <path
+       id="path14"
+       d="m -1312.0137,249.45731 c 51.4,-9.5 77.1,-12.667 128.5,-12.667 51.402,0 77.102,3.167 128.502,12.667 v 50.666 c -51.4,9.5 -77.1,12.667 -128.502,12.667 -51.4,0 -77.1,-3.167 -128.5,-12.667 v -50.666"
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2" />
+    <path
+       id="path16"
+       d="m -1312.0137,249.45731 c 51.4,9.5 77.1,12.666 128.5,12.666 51.402,0 77.102,-3.166 128.502,-12.666"
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2" />
+    <text
+       id="text20"
+       y="285.92331"
+       x="-1183.5137"
+       style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000"
+       font-size="12.8px"><tspan
+         id="tspan18"
+         y="285.92331"
+         x="-1183.5137">Record every 1000th state</tspan></text>
+  </g>
+  <g
+     transform="translate(221.78198,189.42555)"
+     id="g30">
+    <line
+       id="line24"
+       y2="385.17001"
+       x2="-1051.73"
+       y1="365.332"
+       x1="-1051.83"
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2" />
+    <polygon
+       id="polygon26"
+       points="-1051.73,385.17 -1046.75,382.647 -1051.7,392.67 -1056.75,382.693 "
+       style="fill:#000000" />
+    <polygon
+       id="polygon28"
+       points="-1051.73,385.17 -1046.75,382.647 -1051.7,392.67 -1056.75,382.693 "
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2" />
+  </g>
+  <text
+     id="text50"
+     y="614.198"
+     x="-1012.56"
+     style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal"
+     font-size="12.8"><tspan
+       id="tspan48"
+       y="614.198"
+       x="-1012.56" /></text>
+  <text
+     id="text54"
+     y="639.198"
+     x="-1051.5"
+     style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal"
+     font-size="12.8"><tspan
+       id="tspan52"
+       y="639.198"
+       x="-1051.5" /></text>
+  <text
+     id="text70"
+     y="1626.12"
+     x="-1008.71"
+     style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal"
+     font-size="12.8"><tspan
+       id="tspan68"
+       y="1626.12"
+       x="-1008.71" /></text>
+  <text
+     id="text74"
+     y="1664.27"
+     x="-1057.72"
+     style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal"
+     font-size="12.8"><tspan
+       id="tspan72"
+       y="1664.27"
+       x="-1057.72" /></text>
+  <g
+     transform="matrix(0.45765684,0,0,0.84894074,-458.53211,-27.551103)"
+     id="g88">
+    <polyline
+       transform="matrix(1,0,0,1.024297,288.29683,87.280118)"
+       id="polyline82"
+       points="-1055.85,1703.75 -1055.49,1738.29 -508.294,1738.29 -509.386,543.748 -412.21,544.092 -412.56,575.111 "
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2" />
+    <polygon
+       transform="translate(419.09817,116.00395)"
+       id="polygon84"
+       points="-407.532,572.667 -412.645,582.61 -417.532,572.554 -412.56,575.111 "
+       style="fill:#000000" />
+    <polygon
+       transform="translate(419.09817,116.00395)"
+       id="polygon86"
+       points="-407.532,572.667 -412.645,582.61 -417.532,572.554 -412.56,575.111 "
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2" />
+    <g
+       id="g374-9"
+       transform="matrix(3.7809143,0,0,1.173799,1582.3031,14.185739)">
+      <polygon
+         style="fill:#ffffff"
+         points="-361.778,661.568 -462.784,661.734 -462.788,612.604 -440.428,584.846 -384.91,584.846 -361.788,611.734 "
+         id="polygon370-0" />
+      <polygon
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+         points="-361.778,661.568 -462.784,661.734 -462.788,612.604 -440.428,584.846 -384.91,584.846 -361.788,611.734 "
+         id="polygon372-0" />
+    </g>
+    <text
+       transform="scale(1.3619737,0.73422857)"
+       font-size="20.5353px"
+       style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:start;fill:#000000;stroke-width:1.60432"
+       x="-76.938026"
+       y="1027.0396"
+       id="text388-7"><tspan
+         style="stroke-width:1.60432"
+         x="-76.938026"
+         y="1027.0396"
+         id="tspan384-0">For <tspan
+   id="tspan2255"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">i</tspan> in 1 000 000<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:1.60432"
+   id="tspan1719-7" /></tspan></text>
+    <g
+       id="g394-5"
+       transform="matrix(2.1850433,0,0,1.1779385,852.71269,-287.19079)">
+      <polygon
+         style="fill:#ffffff"
+         points="-469.718,1624.54 -371.682,1624.2 -371.792,1679.67 -384.13,1700.49 -457.766,1700.49 -469.718,1680.83 "
+         id="polygon390-9" />
+      <polygon
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+         points="-371.682,1624.2 -371.792,1679.67 -384.13,1700.49 -457.766,1700.49 -469.718,1680.83 -469.718,1624.54 "
+         id="polygon392-4"
+         transform="matrix(1.7338207,0,0,0.99182653,344.99956,13.58711)" />
+    </g>
+    <text
+       transform="scale(1.3619737,0.73422857)"
+       font-size="20.5353px"
+       style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:start;fill:#000000;stroke-width:1.60432"
+       x="-53.404919"
+       y="2253.6326"
+       id="text408-0"><tspan
+         style="stroke-width:1.60432"
+         x="-53.404919"
+         y="2253.6326"
+         id="tspan404-6" /><tspan
+         style="stroke-width:1.60432"
+         x="-53.404919"
+         y="2279.3018"
+         id="tspan406-6">end of For</tspan></text>
+    <g
+       id="g452-73"
+       transform="matrix(2.1850433,0,0,0.62759531,732.73928,261.31439)">
+      <polygon
+         transform="translate(131.94102,206.3676)"
+         style="fill:#ffffff"
+         points="-283.684,837.674 -497.022,837.674 -442.426,687.674 -229.088,687.674 "
+         id="polygon432-2" />
+      <polygon
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+         points="-442.426,687.674 -229.088,687.674 -283.684,837.674 -497.022,837.674 "
+         id="polygon434-1"
+         transform="matrix(1.0014346,0,0,0.87164098,126.13831,294.30271)" />
+      <text
+         id="text1697-3-5"
+         y="701.64532"
+         x="-444.12814"
+         style="font-size:17.3848px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.724367"
+         xml:space="preserve"
+         transform="scale(0.72747975,1.3746087)"><tspan
+           style="font-size:17.3848px;stroke-width:0.724367"
+           y="701.64532"
+           x="-444.12814"
+           id="tspan1695-2-0"
+           sodipodi:role="line">random <tspan
+   id="tspan2341"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">codon <tspan
+   id="tspan2343"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif">in</tspan> genome</tspan></tspan></text>
+      <polygon
+         transform="translate(127.59551,386.46326)"
+         id="polygon432-2-9"
+         points="-442.426,687.674 -229.088,687.674 -283.684,837.674 -497.022,837.674 "
+         style="fill:#ffffff" />
+      <polygon
+         transform="matrix(1.0014346,0,0,0.87164098,121.79282,474.39836)"
+         id="polygon434-1-6"
+         points="-283.684,837.674 -497.022,837.674 -442.426,687.674 -229.088,687.674 "
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2" />
+      <text
+         transform="scale(0.72747976,1.3746087)"
+         xml:space="preserve"
+         style="font-size:17.3848px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.724365"
+         x="-465.21548"
+         y="834.32935"
+         id="text1697-3-5-0"><tspan
+           sodipodi:role="line"
+           id="tspan1695-2-0-2"
+           x="-465.21548"
+           y="834.32935"
+           style="font-size:17.3848px;stroke-width:0.724365">random <tspan
+   id="tspan2345"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">nucleotide</tspan> in <tspan
+   id="tspan2347"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">codon </tspan></tspan></text>
+      <g
+         id="g508-6-4-4"
+         transform="matrix(0.99999999,0,0,1.8769078,115.73186,-35.710408)">
+        <line
+           style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+           x1="-389.12201"
+           y1="663.112"
+           x2="-389.104"
+           y2="677.93799"
+           id="line502-9-5-3" />
+        <polygon
+           style="fill:#000000"
+           points="-394.107,675.444 -389.104,677.938 -384.107,675.432 -389.095,685.438 "
+           id="polygon504-2-8-8" />
+        <polygon
+           style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+           points="-394.107,675.444 -389.104,677.938 -384.107,675.432 -389.095,685.438 "
+           id="polygon506-4-5-4" />
+      </g>
+      <polygon
+         style="fill:#ffffff"
+         points="-229.088,687.674 -283.684,837.674 -497.022,837.674 -442.426,687.674 "
+         id="polygon432-2-9-5"
+         transform="translate(126.31047,567.05935)" />
+      <polygon
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+         points="-442.426,687.674 -229.088,687.674 -283.684,837.674 -497.022,837.674 "
+         id="polygon434-1-6-2"
+         transform="matrix(1.0872918,0,0,0.87164098,163.18068,654.99444)" />
+      <text
+         id="text1697-3-5-0-2"
+         y="968.06836"
+         x="-472.32547"
+         style="font-size:17.3848px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.724365"
+         xml:space="preserve"
+         transform="scale(0.72747976,1.3746087)"><tspan
+           style="font-size:17.3848px;stroke-width:0.724365"
+           y="968.06836"
+           x="-472.32547"
+           id="tspan1695-2-0-2-4"
+           sodipodi:role="line">random <tspan
+   id="tspan2391"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">snp</tspan> from <tspan
+   id="tspan2393"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">weightedtstv</tspan></tspan></text>
+      <g
+         transform="matrix(0.99999999,0,0,1.8769078,114.44682,144.88567)"
+         id="g508-6-4-4-1">
+        <line
+           id="line502-9-5-3-6"
+           y2="677.93799"
+           x2="-389.104"
+           y1="663.112"
+           x1="-389.12201"
+           style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2" />
+        <polygon
+           id="polygon504-2-8-8-9"
+           points="-389.104,677.938 -384.107,675.432 -389.095,685.438 -394.107,675.444 "
+           style="fill:#000000" />
+        <polygon
+           id="polygon506-4-5-4-1"
+           points="-389.104,677.938 -384.107,675.432 -389.095,685.438 -394.107,675.444 "
+           style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2" />
+      </g>
+      <g
+         id="g508-6-4-4-1-0"
+         transform="matrix(0.99999999,0,0,1.8769078,114.47383,509.22321)">
+        <line
+           style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+           x1="-389.12201"
+           y1="663.112"
+           x2="-389.104"
+           y2="677.93799"
+           id="line502-9-5-3-6-5" />
+        <polygon
+           style="fill:#000000"
+           points="-384.107,675.432 -389.095,685.438 -394.107,675.444 -389.104,677.938 "
+           id="polygon504-2-8-8-9-0" />
+        <polygon
+           style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+           points="-384.107,675.432 -389.095,685.438 -394.107,675.444 -389.104,677.938 "
+           id="polygon506-4-5-4-1-2" />
+      </g>
+      <polygon
+         style="fill:#ffffff"
+         points="-229.088,687.674 -283.684,837.674 -497.022,837.674 -442.426,687.674 "
+         id="polygon432-2-9-2"
+         transform="translate(132.23927,1113.0708)" />
+      <polygon
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+         points="-442.426,687.674 -229.088,687.674 -283.684,837.674 -497.022,837.674 "
+         id="polygon434-1-6-0"
+         transform="matrix(1.2392854,0,0,0.87164098,244.65367,1201.0059)" />
+      <text
+         id="text1697-3-5-0-6"
+         y="1362.0875"
+         x="-447.07675"
+         style="font-size:17.3848px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.724365"
+         xml:space="preserve"
+         transform="scale(0.72747976,1.3746087)"><tspan
+           style="font-size:17.3848px;stroke-width:0.724365"
+           y="1362.0875"
+           x="-447.07675"
+           id="tspan1695-2-0-2-1"
+           sodipodi:role="line">update <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.724365"
+   id="tspan2345-4">nucleotide</tspan> according to <tspan
+   id="tspan2559"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">snp</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.724365"
+   id="tspan2347-5"> </tspan></tspan></text>
+      <g
+         transform="matrix(0.99999999,0,0,1.8769078,116.9202,688.46502)"
+         id="g508-6-4-4-6">
+        <line
+           id="line502-9-5-3-3"
+           y2="677.93799"
+           x2="-389.104"
+           y1="663.112"
+           x1="-389.12201"
+           style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2" />
+        <polygon
+           id="polygon504-2-8-8-90"
+           points="-394.107,675.444 -389.104,677.938 -384.107,675.432 -389.095,685.438 "
+           style="fill:#000000" />
+        <polygon
+           id="polygon506-4-5-4-7"
+           points="-394.107,675.444 -389.104,677.938 -384.107,675.432 -389.095,685.438 "
+           style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2" />
+      </g>
+      <text
+         style="line-height:1.25;font-family:sans-serif;font-size:28.87756745px;letter-spacing:0px;white-space:pre;shape-inside:url(#rect2563);"
+         id="text2561"
+         xml:space="preserve" />
+    </g>
+    <g
+       id="g508-3"
+       transform="matrix(2.1850433,0,0,1.1779385,991.68892,11.452179)">
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+         x1="-389.12201"
+         y1="663.112"
+         x2="-389.104"
+         y2="677.93799"
+         id="line502-6" />
+      <polygon
+         style="fill:#000000"
+         points="-389.095,685.438 -394.107,675.444 -389.104,677.938 -384.107,675.432 "
+         id="polygon504-0" />
+      <polygon
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+         points="-389.095,685.438 -394.107,675.444 -389.104,677.938 -384.107,675.432 "
+         id="polygon506-1" />
+    </g>
+    <g
+       transform="matrix(2.1850433,0,0,1.1779385,995.11352,125.8755)"
+       id="g508-6-4">
+      <line
+         id="line502-9-5"
+         y2="677.93799"
+         x2="-389.104"
+         y1="663.112"
+         x1="-389.12201"
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2" />
+      <polygon
+         id="polygon504-2-8"
+         points="-384.107,675.432 -389.095,685.438 -394.107,675.444 -389.104,677.938 "
+         style="fill:#000000" />
+      <polygon
+         id="polygon506-4-5"
+         points="-384.107,675.432 -389.095,685.438 -394.107,675.444 -389.104,677.938 "
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2" />
+    </g>
+    <rect
+       y="579.05981"
+       x="-123.15352"
+       height="33.098366"
+       width="50.051533"
+       id="rect2212"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.86154;stroke-miterlimit:4;stroke-dasharray:0, 42.477;stroke-dashoffset:0" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.86154;stroke-miterlimit:4;stroke-dasharray:0, 42.477;stroke-dashoffset:0"
+       id="rect2212-8"
+       width="50.051533"
+       height="33.098366"
+       x="-150.53343"
+       y="645.67755" />
+    <g
+       id="g508-6-4-3"
+       transform="matrix(2.1850433,0,0,1.1779385,973.39336,815.3544)">
+      <line
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+         x1="-389.12201"
+         y1="663.112"
+         x2="-389.104"
+         y2="677.93799"
+         id="line502-9-5-2" />
+      <polygon
+         style="fill:#000000"
+         points="-394.107,675.444 -389.104,677.938 -384.107,675.432 -389.095,685.438 "
+         id="polygon504-2-8-5" />
+      <polygon
+         style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+         points="-394.107,675.444 -389.104,677.938 -384.107,675.432 -389.095,685.438 "
+         id="polygon506-4-5-1" />
+    </g>
+  </g>
+  <text
+     id="text92"
+     y="1037.9"
+     x="-922.552"
+     style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal"
+     font-size="12.8"><tspan
+       id="tspan90"
+       y="1037.9"
+       x="-922.552" /></text>
+  <text
+     id="text184"
+     y="866.038"
+     x="-965.196"
+     style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal"
+     font-size="12.8"><tspan
+       id="tspan182"
+       y="866.038"
+       x="-965.196" /></text>
+  <text
+     id="text188"
+     y="891.038"
+     x="-1004.13"
+     style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal"
+     font-size="12.8"><tspan
+       id="tspan186"
+       y="891.038"
+       x="-1004.13" /></text>
+  <text
+     id="text204"
+     y="1528.9"
+     x="-962.702"
+     style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal"
+     font-size="12.8"><tspan
+       id="tspan202"
+       y="1528.9"
+       x="-962.702" /></text>
+  <text
+     id="text214"
+     y="1557.39"
+     x="-1060.74"
+     style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal"
+     font-size="12.8"><tspan
+       id="tspan210"
+       y="1557.39"
+       x="-1060.74" /><tspan
+       id="tspan212"
+       y="1573.39"
+       x="-1060.74" /></text>
+  <g
+     transform="translate(-37.156583,-272.61023)"
+     id="g310">
+    <path
+       id="path302"
+       d="m -442.626,1735.22 h 43.8 c 6.048,0 10.95,4.92 10.95,11 0,6.07 -4.902,11 -10.95,11 h -43.8 c -6.048,0 -10.95,-4.93 -10.95,-11 0,-6.08 4.902,-11 10.95,-11 z"
+       style="fill:#ffffff" />
+    <path
+       id="path304"
+       d="m -442.626,1735.22 h 43.8 c 6.048,0 10.95,4.92 10.95,11 0,6.07 -4.902,11 -10.95,11 h -43.8 c -6.048,0 -10.95,-4.93 -10.95,-11 0,-6.08 4.902,-11 10.95,-11"
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2" />
+    <text
+       id="text308"
+       y="1751.02"
+       x="-420.72601"
+       style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000"
+       font-size="12.8px"><tspan
+         id="tspan306"
+         y="1751.02"
+         x="-420.72601">END</tspan></text>
+  </g>
+  <text
+     id="text314"
+     y="639.626"
+     x="-369.138"
+     style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal"
+     font-size="12.8"><tspan
+       id="tspan312"
+       y="639.626"
+       x="-369.138" /></text>
+  <text
+     id="text318"
+     y="664.626"
+     x="-408.072"
+     style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal"
+     font-size="12.8"><tspan
+       id="tspan316"
+       y="664.626"
+       x="-408.072" /></text>
+  <text
+     id="text322"
+     y="1703.3"
+     x="-415.49"
+     style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal"
+     font-size="12.8"><tspan
+       id="tspan320"
+       y="1703.3"
+       x="-415.49" /></text>
+  <text
+     id="text326"
+     y="872.92"
+     x="-321.772"
+     style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal"
+     font-size="12.8"><tspan
+       id="tspan324"
+       y="872.92"
+       x="-321.772" /></text>
+  <text
+     id="text332"
+     y="1706.36"
+     x="-417.314"
+     style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal"
+     font-size="12.8"><tspan
+       id="tspan328"
+       y="1706.36"
+       x="-417.314" /><tspan
+       id="tspan330"
+       y="1722.36"
+       x="-417.314" /></text>
+  <g
+     transform="matrix(1.7303613,0,0,0.99648575,-111.99917,175.05757)"
+     id="g374">
+    <polygon
+       id="polygon370"
+       points="-361.788,611.734 -361.778,661.568 -462.784,661.734 -462.788,612.604 -440.428,584.846 -384.91,584.846 "
+       style="fill:#ffffff" />
+    <polygon
+       id="polygon372"
+       points="-361.788,611.734 -361.778,661.568 -462.784,661.734 -462.788,612.604 -440.428,584.846 -384.91,584.846 "
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2" />
+  </g>
+  <text
+     id="text378"
+     y="598.29"
+     x="-373.35"
+     style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal"
+     font-size="12.8"><tspan
+       id="tspan376"
+       y="598.29"
+       x="-373.35" /></text>
+  <text
+     id="text382"
+     y="623.29"
+     x="-412.284"
+     style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal"
+     font-size="12.8"><tspan
+       id="tspan380"
+       y="623.29"
+       x="-412.284" /></text>
+  <text
+     id="text388"
+     y="801.35291"
+     x="-897.54614"
+     style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:start;fill:#000000"
+     font-size="12.8px"><tspan
+       id="tspan384"
+       y="801.35291"
+       x="-897.54614">For (<tspan
+   id="tspan1721"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">snp,n</tspan>) in <tspan
+   id="tspan1719"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">weights</tspan></tspan></text>
+  <g
+     transform="translate(-435.53498,-664.75955)"
+     id="g394">
+    <polygon
+       id="polygon390"
+       points="-371.682,1624.2 -371.792,1679.67 -384.13,1700.49 -457.766,1700.49 -469.718,1680.83 -469.718,1624.54 "
+       style="fill:#ffffff" />
+    <polygon
+       transform="matrix(1.7338207,0,0,0.99182653,344.99956,13.58711)"
+       id="polygon392"
+       points="-371.792,1679.67 -384.13,1700.49 -457.766,1700.49 -469.718,1680.83 -469.718,1624.54 -371.682,1624.2 "
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2" />
+  </g>
+  <text
+     id="text398"
+     y="1624.2"
+     x="-371.682"
+     style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal"
+     font-size="12.8"><tspan
+       id="tspan396"
+       y="1624.2"
+       x="-371.682" /></text>
+  <text
+     id="text402"
+     y="1662.35"
+     x="-420.7"
+     style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal"
+     font-size="12.8"><tspan
+       id="tspan400"
+       y="1662.35"
+       x="-420.7" /></text>
+  <text
+     id="text408"
+     y="983.77502"
+     x="-859.07288"
+     style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:start;fill:#000000"
+     font-size="12.8px"><tspan
+       id="tspan404"
+       y="983.77502"
+       x="-859.07288" /><tspan
+       id="tspan406"
+       y="999.77502"
+       x="-859.07288">end of For</tspan></text>
+  <text
+     id="text412"
+     y="1038.2"
+     x="-284.34"
+     style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal"
+     font-size="12.8"><tspan
+       id="tspan410"
+       y="1038.2"
+       x="-284.34" /></text>
+  <g
+     transform="matrix(1,0,0,0.53279121,-368.86688,494.80602)"
+     id="g452">
+    <polygon
+       id="polygon432"
+       points="-497.022,837.674 -442.426,687.674 -229.088,687.674 -283.684,837.674 "
+       style="fill:#ffffff" />
+    <polygon
+       transform="matrix(1.0014346,0,0,0.87164098,-5.8027081,87.935104)"
+       id="polygon434"
+       points="-229.088,687.674 -283.684,837.674 -497.022,837.674 -442.426,687.674 "
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2" />
+    <text
+       transform="scale(0.72747975,1.3746087)"
+       id="text450"
+       y="539.76929"
+       x="-440.41599"
+       style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;stroke-width:1.37461"
+       font-size="17.595px"><tspan
+         id="tspan1687"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:1.37461">weightedtstv</tspan></text>
+    <text
+       transform="scale(0.72747975,1.3746087)"
+       id="text1697"
+       y="540.39764"
+       x="-606.65942"
+       style="font-size:17.3848px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.724367"
+       xml:space="preserve"><tspan
+         style="font-size:17.3848px;stroke-width:0.724367"
+         y="540.39764"
+         x="-606.65942"
+         id="tspan1695"
+         sodipodi:role="line">add <tspan
+   id="tspan2028"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">snp</tspan> to</tspan></text>
+    <text
+       transform="scale(0.72747975,1.3746087)"
+       xml:space="preserve"
+       style="font-size:17.3848px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.724367"
+       x="-548.58398"
+       y="567.44061"
+       id="text1697-3"><tspan
+         sodipodi:role="line"
+         id="tspan1695-2"
+         x="-548.58398"
+         y="567.44061"
+         style="font-size:17.3848px;stroke-width:0.724367"><tspan
+   id="tspan1717"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.724367">n</tspan> times</tspan></text>
+  </g>
+  <text
+     id="text470"
+     y="872.876"
+     x="-326.984"
+     style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal"
+     font-size="12.8"><tspan
+       id="tspan468"
+       y="872.876"
+       x="-326.984" /></text>
+  <text
+     id="text474"
+     y="897.876"
+     x="-365.918"
+     style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal"
+     font-size="12.8"><tspan
+       id="tspan472"
+       y="897.876"
+       x="-365.918" /></text>
+  <text
+     id="text490"
+     y="1528.25"
+     x="-316.712"
+     style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal"
+     font-size="12.8"><tspan
+       id="tspan488"
+       y="1528.25"
+       x="-316.712" /></text>
+  <text
+     id="text500"
+     y="1556.73"
+     x="-414.748"
+     style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal"
+     font-size="12.8"><tspan
+       id="tspan496"
+       y="1556.73"
+       x="-414.748" /><tspan
+       id="tspan498"
+       y="1572.73"
+       x="-414.748" /></text>
+  <g
+     transform="translate(-382.2978,172.73693)"
+     id="g508">
+    <line
+       id="line502"
+       y2="677.93799"
+       x2="-389.104"
+       y1="663.112"
+       x1="-389.12201"
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2" />
+    <polygon
+       id="polygon504"
+       points="-394.107,675.444 -389.104,677.938 -384.107,675.432 -389.095,685.438 "
+       style="fill:#000000" />
+    <polygon
+       id="polygon506"
+       points="-394.107,675.444 -389.104,677.938 -384.107,675.432 -389.095,685.438 "
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2" />
+  </g>
+  <text
+     id="text580"
+     y="639.922"
+     x="269.074"
+     style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal"
+     font-size="12.8"><tspan
+       id="tspan578"
+       y="639.922"
+       x="269.074" /></text>
+  <text
+     id="text584"
+     y="664.922"
+     x="230.14"
+     style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal"
+     font-size="12.8"><tspan
+       id="tspan582"
+       y="664.922"
+       x="230.14" /></text>
+  <text
+     id="text588"
+     y="872.126"
+     x="316.44"
+     style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal"
+     font-size="12.8"><tspan
+       id="tspan586"
+       y="872.126"
+       x="316.44" /></text>
+  <g
+     transform="translate(-37.156583,-272.61023)"
+     id="g638">
+    <line
+       id="line632"
+       y2="1726.03"
+       x2="-420.647"
+       y1="1700.49"
+       x1="-420.948"
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2" />
+    <polygon
+       id="polygon634"
+       points="-420.647,1726.03 -415.677,1723.48 -420.558,1733.53 -425.676,1723.59 "
+       style="fill:#000000" />
+    <polygon
+       id="polygon636"
+       points="-420.647,1726.03 -415.677,1723.48 -420.558,1733.53 -425.676,1723.59 "
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2" />
+  </g>
+  <g
+     transform="translate(-119.49486,179.56532)"
+     id="g650">
+    <rect
+       id="rect640"
+       height="54"
+       width="179.7"
+       y="405.164"
+       x="-882.81201"
+       style="fill:#ffffff" />
+    <rect
+       id="rect642"
+       height="141.06958"
+       width="342.33984"
+       y="406.49359"
+       x="-881.48248"
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2.23488;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       id="text648"
+       y="436.29404"
+       x="-740.47711"
+       style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000"
+       font-size="12.8px"><tspan
+   id="tspan1542"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">codons</tspan> = list of codons from AAA to GGG</text>
+    <text
+       style="font-size:21.0785px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1509);"
+       id="text1507"
+       xml:space="preserve" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:sans-serif;letter-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:1"
+       x="-710.93738"
+       y="463.53333"
+       id="text648-0"><tspan
+         y="463.53333"
+         x="-710.93738"
+         id="tspan1528"
+         sodipodi:role="line"><tspan
+   id="tspan1544"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">weights</tspan> = list of TSs and TVs (&quot;G&gt;A&quot;:60,&quot;T&gt;C&quot;:18,</tspan><tspan
+         y="479.53333"
+         x="-710.93738"
+         id="tspan1530"
+         sodipodi:role="line" /></text>
+    <text
+       id="text1534"
+       y="485.54095"
+       x="-677.68109"
+       style="font-size:12.8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.526962"
+       xml:space="preserve"><tspan
+         style="font-size:12.8px;stroke-width:0.526962"
+         y="485.54095"
+         x="-677.68109"
+         id="tspan1532"
+         sodipodi:role="line">&quot;C&gt;T&quot;:9,  &quot;A&gt;G&quot;:5</tspan></text>
+    <text
+       id="text1538"
+       y="506.2735"
+       x="-675.27954"
+       style="font-size:21.0785px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.526962"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.526962"
+         y="506.2735"
+         x="-675.27954"
+         id="tspan1536"
+         sodipodi:role="line"><tspan
+           id="tspan1540"
+           style="font-size:12.6471px">others:1)</tspan></tspan></text>
+    <text
+       style="font-size:21.0785px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1548);"
+       id="text1546"
+       xml:space="preserve" />
+    <text
+       id="text1679"
+       y="530.48431"
+       x="-874.70874"
+       style="font-size:12.6471px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.526962"
+       xml:space="preserve"><tspan
+         style="font-size:12.6471px;stroke-width:0.526962"
+         y="530.48431"
+         x="-874.70874"
+         id="tspan1677"
+         sodipodi:role="line"><tspan
+           id="tspan1681"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">weightedtstv </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           id="tspan1685">= empty</tspan></tspan></text>
+  </g>
+  <text
+     id="text1593"
+     y="828.55225"
+     x="-896.1994"
+     style="font-size:21.0785px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.526962"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.526962"
+       y="828.55225"
+       x="-896.1994"
+       id="tspan1591"
+       sodipodi:role="line"></tspan></text>
+  <text
+     style="line-height:1.25;font-family:sans-serif;font-size:21.07847282px;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1597);"
+     id="text1595"
+     xml:space="preserve" />
+  <text
+     style="line-height:1.25;font-family:sans-serif;font-size:21.07847282px;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1725);"
+     id="text1723"
+     xml:space="preserve" />
+  <g
+     id="g30-6"
+     transform="translate(223.36381,362.30756)">
+    <line
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x1="-1051.83"
+       y1="365.332"
+       x2="-1051.73"
+       y2="385.17001"
+       id="line24-9" />
+    <polygon
+       style="fill:#000000"
+       points="-1046.75,382.647 -1051.7,392.67 -1056.75,382.693 -1051.73,385.17 "
+       id="polygon26-6" />
+    <polygon
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       points="-1046.75,382.647 -1051.7,392.67 -1056.75,382.693 -1051.73,385.17 "
+       id="polygon28-9" />
+  </g>
+  <g
+     id="g508-6"
+     transform="translate(-380.73052,269.87558)">
+    <line
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x1="-389.12201"
+       y1="663.112"
+       x2="-389.104"
+       y2="677.93799"
+       id="line502-9" />
+    <polygon
+       style="fill:#000000"
+       points="-389.095,685.438 -394.107,675.444 -389.104,677.938 -384.107,675.432 "
+       id="polygon504-2" />
+    <polygon
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       points="-389.095,685.438 -394.107,675.444 -389.104,677.938 -384.107,675.432 "
+       id="polygon506-4" />
+  </g>
+  <g
+     id="g650-2"
+     transform="translate(-119.99628,682.66712)">
+    <rect
+       style="fill:#ffffff"
+       x="-882.81201"
+       y="405.164"
+       width="179.7"
+       height="54"
+       id="rect640-4" />
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.767544;stroke-miterlimit:4;stroke-dasharray:none"
+       x="-765.08698"
+       y="385.39294"
+       width="134.60069"
+       height="42.319317"
+       id="rect642-3" />
+    <text
+       xml:space="preserve"
+       id="text1507-7"
+       style="font-size:21.0785px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1509-9);" />
+    <text
+       xml:space="preserve"
+       id="text1546-3"
+       style="font-size:21.0785px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1548-8);" />
+    <text
+       xml:space="preserve"
+       style="font-size:12.6471px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.526962"
+       x="-758.08826"
+       y="410.40842"
+       id="text1679-9"><tspan
+         sodipodi:role="line"
+         id="tspan1677-1"
+         x="-758.08826"
+         y="410.40842"
+         style="font-size:12.6471px;stroke-width:0.526962"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+           id="tspan1681-0">genome </tspan><tspan
+           id="tspan1685-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif">= empty</tspan></tspan></text>
+  </g>
+  <g
+     id="g30-0"
+     transform="translate(232.16498,670.39845)">
+    <line
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x1="-1051.83"
+       y1="365.332"
+       x2="-1051.73"
+       y2="385.17001"
+       id="line24-4" />
+    <polygon
+       style="fill:#000000"
+       points="-1046.75,382.647 -1051.7,392.67 -1056.75,382.693 -1051.73,385.17 "
+       id="polygon26-2" />
+    <polygon
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       points="-1046.75,382.647 -1051.7,392.67 -1056.75,382.693 -1051.73,385.17 "
+       id="polygon28-94" />
+  </g>
+  <g
+     id="g374-0"
+     transform="matrix(1.7303613,0,0,0.99648575,-103.60949,558.74937)">
+    <polygon
+       style="fill:#ffffff"
+       points="-361.788,611.734 -361.778,661.568 -462.784,661.734 -462.788,612.604 -440.428,584.846 -384.91,584.846 "
+       id="polygon370-7" />
+    <polygon
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       points="-361.788,611.734 -361.778,661.568 -462.784,661.734 -462.788,612.604 -440.428,584.846 -384.91,584.846 "
+       id="polygon372-8" />
+  </g>
+  <text
+     font-size="12.8px"
+     style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:start;fill:#000000;stroke-width:1"
+     x="-873.27478"
+     y="1187.4879"
+     id="text388-6"><tspan
+       style="stroke-width:1"
+       x="-873.27478"
+       y="1187.4879"
+       id="tspan384-2">For <tspan
+   id="tspan2018"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">c</tspan> in <tspan
+   id="tspan2020"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">codons</tspan></tspan></text>
+  <g
+     id="g394-4"
+     transform="translate(-427.1453,-281.06777)">
+    <polygon
+       style="fill:#ffffff"
+       points="-371.682,1624.2 -371.792,1679.67 -384.13,1700.49 -457.766,1700.49 -469.718,1680.83 -469.718,1624.54 "
+       id="polygon390-3" />
+    <polygon
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       points="-371.792,1679.67 -384.13,1700.49 -457.766,1700.49 -469.718,1680.83 -469.718,1624.54 -371.682,1624.2 "
+       id="polygon392-7"
+       transform="matrix(1.7338207,0,0,0.99182653,344.99956,13.58711)" />
+  </g>
+  <text
+     font-size="12.8px"
+     style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:start;fill:#000000;stroke-width:1"
+     x="-850.68335"
+     y="1367.4667"
+     id="text408-8"><tspan
+       style="stroke-width:1"
+       x="-850.68335"
+       y="1367.4667"
+       id="tspan404-9" /><tspan
+       style="stroke-width:1"
+       x="-850.68335"
+       y="1383.4667"
+       id="tspan406-8">end of For</tspan></text>
+  <g
+     id="g452-7"
+     transform="matrix(1,0,0,0.53279123,-347.20873,877.70807)">
+    <polygon
+       style="fill:#ffffff"
+       points="-497.022,837.674 -442.426,687.674 -229.088,687.674 -283.684,837.674 "
+       id="polygon432-8" />
+    <polygon
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       points="-229.088,687.674 -283.684,837.674 -497.022,837.674 -442.426,687.674 "
+       id="polygon434-7"
+       transform="matrix(1.0014346,0,0,0.87164098,-5.8027081,87.935104)" />
+    <text
+       font-size="17.595px"
+       style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;stroke-width:1.37461"
+       x="-462.38406"
+       y="538.58978"
+       id="text450-1"
+       transform="scale(0.72747975,1.3746087)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:1.37461"
+         id="tspan1687-9">genome</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.3848px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.724367"
+       x="-576.85138"
+       y="539.5636"
+       id="text1697-6"
+       transform="scale(0.72747975,1.3746087)"><tspan
+         sodipodi:role="line"
+         id="tspan1695-8"
+         x="-576.85138"
+         y="539.5636"
+         style="font-size:17.3848px;stroke-width:0.724367">add <tspan
+   id="tspan2026"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">с</tspan> to</tspan></text>
+    <text
+       id="text1697-3-3"
+       y="566.21918"
+       x="-552.40973"
+       style="font-size:17.3848px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.724367"
+       xml:space="preserve"
+       transform="scale(0.72747975,1.3746087)"><tspan
+         style="font-size:17.3848px;stroke-width:0.724367"
+         y="566.21918"
+         x="-552.40973"
+         id="tspan1695-2-1"
+         sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.724367"
+   id="tspan1717-5"><tspan
+     id="tspan2022"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif">100</tspan></tspan> times</tspan></text>
+  </g>
+  <g
+     id="g508-65"
+     transform="translate(-373.90814,556.42874)">
+    <line
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       x1="-389.12201"
+       y1="663.112"
+       x2="-389.104"
+       y2="677.93799"
+       id="line502-5" />
+    <polygon
+       style="fill:#000000"
+       points="-394.107,675.444 -389.104,677.938 -384.107,675.432 -389.095,685.438 "
+       id="polygon504-8" />
+    <polygon
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       points="-394.107,675.444 -389.104,677.938 -384.107,675.432 -389.095,685.438 "
+       id="polygon506-0" />
+  </g>
+  <g
+     transform="translate(231.75349,745.99936)"
+     id="g30-6-5">
+    <line
+       id="line24-9-3"
+       y2="385.17001"
+       x2="-1051.73"
+       y1="365.332"
+       x1="-1051.83"
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2" />
+    <polygon
+       id="polygon26-6-3"
+       points="-1046.75,382.647 -1051.7,392.67 -1056.75,382.693 -1051.73,385.17 "
+       style="fill:#000000" />
+    <polygon
+       id="polygon28-9-8"
+       points="-1046.75,382.647 -1051.7,392.67 -1056.75,382.693 -1051.73,385.17 "
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2" />
+  </g>
+  <g
+     transform="translate(-372.34085,653.56739)"
+     id="g508-6-3">
+    <line
+       id="line502-9-1"
+       y2="677.93799"
+       x2="-389.104"
+       y1="663.112"
+       x1="-389.12201"
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2" />
+    <polygon
+       id="polygon504-2-4"
+       points="-389.095,685.438 -394.107,675.444 -389.104,677.938 -384.107,675.432 "
+       style="fill:#000000" />
+    <polygon
+       id="polygon506-4-1"
+       points="-389.095,685.438 -394.107,675.444 -389.104,677.938 -384.107,675.432 "
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2" />
+  </g>
+  <g
+     transform="translate(240.55464,1054.0903)"
+     id="g30-0-6">
+    <line
+       id="line24-4-3"
+       y2="385.17001"
+       x2="-1051.73"
+       y1="365.332"
+       x1="-1051.83"
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2" />
+    <polygon
+       id="polygon26-2-3"
+       points="-1046.75,382.647 -1051.7,392.67 -1056.75,382.693 -1051.73,385.17 "
+       style="fill:#000000" />
+    <polygon
+       id="polygon28-94-8"
+       points="-1046.75,382.647 -1051.7,392.67 -1056.75,382.693 -1051.73,385.17 "
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2" />
+  </g>
+  <g
+     transform="matrix(1,0,0,0.50236525,-386.23534,1109.2539)"
+     id="g452-7-0">
+    <polygon
+       id="polygon432-8-3"
+       points="-229.088,687.674 -283.684,837.674 -497.022,837.674 -442.426,687.674 "
+       style="fill:#ffffff" />
+    <polygon
+       transform="matrix(1.0014346,0,0,0.99393846,-5.8027081,3.8343078)"
+       id="polygon434-7-5"
+       points="-442.426,687.674 -229.088,687.674 -283.684,837.674 -497.022,837.674 "
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2" />
+    <text
+       transform="scale(0.72747975,1.3746087)"
+       xml:space="preserve"
+       style="font-size:17.3848px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.724367"
+       x="-626.77026"
+       y="557.9621"
+       id="text1697-3-3-2"><tspan
+         sodipodi:role="line"
+         id="tspan1695-2-1-5"
+         x="-626.77026"
+         y="557.9621"
+         style="font-size:17.3848px;stroke-width:0.724367">random shuffle of <tspan
+   id="tspan2078"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">genome</tspan></tspan></text>
+  </g>
+  <path
+     sodipodi:nodetypes="ccc"
+     id="path2253"
+     d="m -516.10568,518.80539 c 42.65287,0.43193 59.63225,0.34321 59.63225,0.34321 l 0.0697,39.15208"
+     style="fill:none;stroke:#000000;stroke-width:1.73897;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <g
+     id="g106-0"
+     transform="translate(577.004,-39.092862)">
+    <polygon
+       style="fill:#ffffff"
+       points="-975.705,997.258 -840.566,1082.1 -975.705,1166.94 -1110.84,1082.1 "
+       id="polygon94-1" />
+    <polygon
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:2"
+       points="-975.705,997.258 -840.566,1082.1 -975.705,1166.94 -1110.84,1082.1 "
+       id="polygon96-8" />
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000"
+       x="-973.97729"
+       y="1083.4259"
+       id="text104-0">If <tspan
+   id="tspan2428"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">snp</tspan> correct for <tspan
+   id="tspan2430"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">nucleotide</tspan></text>
+  </g>
+  <text
+     style="line-height:1.25;font-family:sans-serif;font-size:21.07847282px;letter-spacing:0px;white-space:pre;shape-inside:url(#rect2458);"
+     id="text2456"
+     xml:space="preserve" />
+  <text
+     style="line-height:1.25;font-family:sans-serif;font-size:21.07847282px;letter-spacing:0px;white-space:pre;shape-inside:url(#rect2464);"
+     id="text2462"
+     xml:space="preserve" />
+</svg>
